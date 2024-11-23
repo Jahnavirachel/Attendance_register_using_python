@@ -37,7 +37,6 @@ def markAttendance(name):
 
 
 
-
 encodelistknownfaces = findEncodings(images)
 print("Encoding Completed")
 
